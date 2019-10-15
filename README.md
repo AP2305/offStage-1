@@ -16,3 +16,4 @@ You will also need apache tomcaate server to run this project.
 Add tomcat server into your eclipse.
 Now right click on the project in the project explorer and go to run as and select run on server.
 Now your project is running and you can use localhost url and insert it into your browser url field.
+It's chat box not chat bot
