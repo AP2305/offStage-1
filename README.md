@@ -1,6 +1,6 @@
 # offStage
 
-This is the web site made to accept participation for an event management app.
+This is a web site made to accept participation for an event management app.
 It can be used to get participation and show schedules of the events.
 It also contains a map of DAIICT with pin pointed location of the event to help people understand the area.
 
